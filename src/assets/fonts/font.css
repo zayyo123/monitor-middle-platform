@@ -1,0 +1,36 @@
+@font-face {  
+    font-family: 'Alibaba';
+    src: url('./Alibaba.ttf');
+    font-weight: normal;  
+    font-style: normal;  
+  }
+  @font-face {  
+    font-family: 'AlibabaBold';
+    src: url('./AlibabaBold.ttf');
+    font-weight: normal;  
+    font-style: normal;  
+  }
+  @font-face {  
+    font-family: 'AlibabaHeavy';
+    src: url('./AlibabaHeavy.ttf');
+    font-weight: normal;  
+    font-style: normal;  
+  }
+  @font-face {  
+    font-family: 'AlibabaLight';
+    src: url('./AlibabaLight.ttf');
+    font-weight: normal;  
+    font-style: normal;  
+  }
+  @font-face {  
+    font-family: 'AlibabaMedium';
+    src: url('./AlibabaMedium.ttf');
+    font-weight: normal;  
+    font-style: normal;  
+  }
+  @font-face {  
+    font-family: 'AlibabaRegular';
+    src: url('./AlibabaRegular.ttf');
+    font-weight: normal;  
+    font-style: normal;  
+  }
