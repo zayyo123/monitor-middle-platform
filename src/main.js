@@ -1,10 +1,4 @@
-/*
- * @Author: arvin(王德江)
- * @Date: 2022-08-05 14:24:57
- * @LastEditors: 18062706139 2279549769@qq.com
- * @LastEditTime: 2022-08-30 19:16:12
- * @Description: 
- */
+
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
