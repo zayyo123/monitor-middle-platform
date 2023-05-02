@@ -1,11 +1,5 @@
 import { localGet } from '@/utils/login';
-<!--
- * @Author: arvin(王德江)
- * @Date: 2022-08-05 14:24:57
- * @LastEditors: 18062706139 2279549769@qq.com
- * @LastEditTime: 2022-08-30 19:04:51
- * @Description: 
--->
+
 <template>
   <div id="app">
     <!-- <nav>
@@ -14,7 +8,7 @@ import { localGet } from '@/utils/login';
       <router-link to="/js-error">jsError</router-link> |
       <router-link to="/performance">performance</router-link> 
     </nav> -->
-    <router-view/>
+    <router-view />
   </div>
 </template>
 <script>
@@ -23,6 +17,7 @@ import { localGet } from '@/utils/login';
 body {
   margin: 0;
 }
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -35,6 +30,7 @@ body {
 
 nav {
   padding: 30px;
+
   a {
     font-weight: bold;
     color: #2c3e50;

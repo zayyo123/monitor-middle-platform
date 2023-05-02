@@ -1,10 +1,3 @@
-<!--
- * @Author: Ryker
- * @Date: 2022-08-06 09:12:04
- * @LastEditors: 最后编辑
- * @LastEditTime: 2022-08-08 21:24:00
--->
-
 <template>
 <div class="home">
     <homeHeader />
