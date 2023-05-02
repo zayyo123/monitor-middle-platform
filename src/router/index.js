@@ -1,14 +1,7 @@
-/*
- * @Author: arvin(王德江)
- * @Date: 2022-08-05 14:24:57
- * @LastEditors: 18062706139 2279549769@qq.com
- * @LastEditTime: 2022-08-30 19:11:58
- * @Description:
- */
 import Vue from "vue";
 import VueRouter from "vue-router";
 import HomeView from "../views/HomeView.vue";
-import loginView from '@/views/loginView'
+import loginView from "@/views/loginView";
 Vue.use(VueRouter);
 
 const routes = [
@@ -37,9 +30,9 @@ const routes = [
   },
   {
     path: "/",
-    name: 'loginView',
-    component: loginView
-  }
+    name: "loginView",
+    component: loginView,
+  },
 ];
 
 const router = new VueRouter({
