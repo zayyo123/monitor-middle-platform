@@ -1,13 +1,9 @@
 /*
- * @Author: arvin(王德江)
- * @Date: 2022-08-05 14:34:43
- * @LastEditors: arvin(王德江)
- * @LastEditTime: 2022-08-05 15:00:11
  * @Description: 工具库
  */
 
 function isObject(obj) {
-  return typeof obj === 'object' && obj !== null;
+  return typeof obj === "object" && obj !== null;
 }
 
 function deepClone(source) {
@@ -15,7 +11,7 @@ function deepClone(source) {
   const target = Array.isArray(source) ? [] : {}; // 数组兼容
   Object.keys(source).forEach((k) => {
     if (Reflect.has(source, k)) {
-      if (typeof source[k] === 'object') {
+      if (typeof source[k] === "object") {
         target[k] = deepClone(source[k]);
       } else {
         target[k] = source[k];
@@ -57,5 +53,5 @@ function throttle(func, time = 300) {
 export default {
   deepClone,
   debounce,
-  throttle
-}
+  throttle,
+};

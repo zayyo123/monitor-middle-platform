@@ -1,10 +1,4 @@
-/*
- * @Descripttion: 
- * @Author: Wang Dejiang(aei)
- * @Date: 2022-08-02 21:45:04
- * @LastEditors: 18062706139 2279549769@qq.com
- * @LastEditTime: 2022-08-25 09:42:23
- */
+
 import axios from "axios";
 
 // 配置默认URL
