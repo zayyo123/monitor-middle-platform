@@ -1,9 +1,4 @@
-<!--
- * @Author: Ryker
- * @Date: 2022-08-06 21:58:02
- * @LastEditors: 18062706139 2279549769@qq.com
- * @LastEditTime: 2022-08-30 17:00:51
--->
+
 <template>
 <div class="mainContainerSix">
     <div class="first section"><img src="@/assets/homePage/left.png" alt="" class="firstImg">

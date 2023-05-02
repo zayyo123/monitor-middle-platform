@@ -1,9 +1,4 @@
-<!--
- * @Author: Ryker
- * @Date: 2022-08-06 16:25:18
- * @LastEditors: 18062706139 2279549769@qq.com
- * @LastEditTime: 2022-08-25 06:55:38
--->
+
 <template>
 <div class="mainContainer1">
     <div class="word"><title-componentVue :na="na"></title-componentVue></div>

@@ -1,9 +1,4 @@
-<!--
- * @Author: Ryker
- * @Date: 2022-08-06 20:24:35
- * @LastEditors: 18062706139 2279549769@qq.com
- * @LastEditTime: 2022-08-25 09:38:37
--->
+
 <template>
 <div style="display: flex; justify-content: left; flex-direction: column">
     <title-component :na="na"></title-component>

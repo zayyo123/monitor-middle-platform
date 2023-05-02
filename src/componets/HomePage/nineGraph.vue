@@ -1,9 +1,4 @@
-<!--
- * @Author: Ryker
- * @Date: 2022-08-07 10:44:01
- * @LastEditors: 18062706139 2279549769@qq.com
- * @LastEditTime: 2022-08-25 21:38:10
--->
+
 <template>
 <div class="mainContainer9">
     <!-- <div class="leftPart"></div> -->

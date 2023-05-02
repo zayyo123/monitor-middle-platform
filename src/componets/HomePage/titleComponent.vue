@@ -1,9 +1,4 @@
-<!--
- * @Author: Ryker
- * @Date: 2022-08-07 00:16:31
- * @LastEditors: 最后编辑
- * @LastEditTime: 2022-08-07 10:14:32
--->
+
 <template>
   <div class="mainTitle">
     <div class="triangle"></div>
